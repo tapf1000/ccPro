@@ -3,6 +3,6 @@
   <title>PHP Test</title>
  </head>
  <body>
- <?php echo '<pCloud Computing Project</p>'; ?> 
+ <?php echo '<p>Cloud Computing Project</p>'; ?> 
  </body>
 </html>
